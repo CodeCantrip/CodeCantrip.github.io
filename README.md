@@ -1,5 +1,3 @@
-# CodeCantrip.github.io
-
 # CodeCantrip | Software Engineering Portfolio
 
 Welcome to my software engineering portfolio!
